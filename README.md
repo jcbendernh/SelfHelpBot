@@ -16,14 +16,13 @@ This allows you to do three things…
 -	The same Dynamics 365 instance with the Customer Portal configured with Knowledge Base articles and cases exposed.
 -	Dynamics 365 Products that have a product name that matches the tags used in the Custom Vision Service.  Also, a custom field to capture the product image URL.
 -	A custom vision service project setup with multiple pictures per item created.  You can use the pictures in the .zip file attached.  For more information on using the custom vision service, see https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier 
--	A comfort level with Visual Studio 2017.  You will need to modify the application settings in the Web Config file of the attached visual studio solution…
- 
-# When finished you will need to publish it online so that is it registered to your Bot.
+-	A comfort level with Visual Studio 2017.  You will need to modify the application settings in the Web Config file of the attached visual studio solution.  When finished you will need to publish it online so that is it registered to your Bot.
 -	Download and install the Bot Framework Emulator at https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v3.5.31
 -	An existing Bot setup in the Bot Framework at https://dev.botframework.com/ 
 -	A good understanding of Geoff Innis’ Product and Part Identifier Bot using Custom Vision Service blog posting located at https://blogs.msdn.microsoft.com/geoffreyinnis/2017/06/13/product-and-part-identifier-bot-using-custom-vision-service/ 
 -	A good sense of humor and familiarity with Silicon Valley Season 4.
-To get this running, you will need to complete the following steps…
+
+# To get this running, you will need to complete the following steps…
 1)	Create a Bot on the Bot Framework and connect it to the Skype channel.
 2)	Create a Custom Vision Service Project and upload your pictures and tag them appropriately.  Make sure to have some real life pictures of the items, not just pictures from the internet.  You can use the Pictures.zip file included in this project.
 3)	Train the Custom Vision Service Project.  
