@@ -1,7 +1,6 @@
 # SelfHelpBot
-Skype Bot to enables users to take self help actions
-
 I have taken the code that Geoff Innis created on his blog at Product and Part Identifier Bot using Custom Vision Service and also the code that Barry Schwartz circulated and merged and enhanced some of the functionality using the Documentation on the Bot Developer Framework to create the enhanced SelfHelpBot.  
+
 This allows you to do three things…
 
 1)	Identify a Part of Product.  Take a picture of an object and the bot will run it through the custom vision service and if identified, it will send back details based on the Product in Dynamics 365. If a confidence level of above 75% is not achieved from the Vision Service, the user is informed that we cannot find a match…
@@ -36,3 +35,5 @@ This allows you to do three things…
 11)	Once satisfied with the results, publish it to Azure.  For a tutorial, go to https://docs.microsoft.com/en-us/bot-framework/deploy-bot-visual-studio. 
 12)	Test your Bot in Skype.
 NOTE:  For the case portion, make sure to use an existing contact that has access to the Dynamics 365 Customer Portal so you can see the case listing for that specific contact in the portal.
+
+Note: This is not production level code.  This is for demo purposes only.
