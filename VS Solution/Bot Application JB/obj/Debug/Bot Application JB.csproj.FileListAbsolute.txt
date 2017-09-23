@@ -1,0 +1,44 @@
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Bot Application.dll.config
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Bot Application.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Bot Application.pdb
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Autofac.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Chronic.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.Bot.Builder.Autofac.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.Bot.Builder.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.Bot.Connector.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.Rest.ClientRuntime.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.WindowsAzure.Configuration.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Newtonsoft.Json.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\System.IdentityModel.Tokens.Jwt.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\System.Net.Http.Formatting.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\System.Web.Http.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\System.Web.Http.WebHost.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Autofac.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.Bot.Builder.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.Bot.Builder.Autofac.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.Bot.Connector.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Microsoft.WindowsAzure.Configuration.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\Newtonsoft.Json.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\System.IdentityModel.Tokens.Jwt.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\System.Net.Http.Formatting.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\System.Web.Http.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\System.Web.Http.WebHost.xml
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\ar\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\cs\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\en\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\es\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\fa\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\fr\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\ja\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\ru\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\obj\Debug\Bot Application JB.csprojResolveAssemblyReference.cache
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\obj\Debug\Bot Application JB.csproj.CoreCompileInputs.cache
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\obj\Debug\Bot Application.dll
+d:\jobender\OneDrive - Microsoft\Visual Studio 2017\Projects\Bot Application JB\Bot Application JB\obj\Debug\Bot Application.pdb
