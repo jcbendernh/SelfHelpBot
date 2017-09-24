@@ -1,5 +1,5 @@
 # SelfHelpBot
-I have taken the various Bot code examples that Geoff Innis created and merged and enhanced some of the functionality using the documentation on the Bot Developer Framework to create the enhanced SelfHelpBot.  
+I have taken the various Bot code examples that Geoff Innis created and merged and enhanced some of the functionality using the documentation on the Bot Developer Framework to create the SelfHelpBot.  
 
 This allows you to do three things…
 
