@@ -1,5 +1,5 @@
 # SelfHelpBot
-I have taken the code that Geoff Innis created on his blog at Product and Part Identifier Bot using Custom Vision Service and also the code that Barry Schwartz circulated and merged and enhanced some of the functionality using the Documentation on the Bot Developer Framework to create the enhanced SelfHelpBot.  
+I have taken the various Bot code examples that Geoff Innis created and merged and enhanced some of the functionality using the documentation on the Bot Developer Framework to create the enhanced SelfHelpBot.  
 
 This allows you to do three things…
 
