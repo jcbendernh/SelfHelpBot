@@ -10,7 +10,7 @@ This allows you to do three things…
 3.  Create a Case.   This allows you to input your name and problem.  A CRM search will be done on the contact full name entered and if it finds a match, the case will be tied to the existing contact.  If the contact full name does not exist, a new contact will be created and tied to the case.
 
  
-# Prerequisites for this.
+# Prerequisites for this...
 -	A Dynamics 365 instance with the new Interactive Service Hub Knowledge Base setup
 -	The same Dynamics 365 instance with the Customer Portal configured with Knowledge Base articles and cases exposed.
 -	Dynamics 365 Products that have a product name that matches the tags used in the Custom Vision Service.  Also, a custom field to capture the product image URL.
