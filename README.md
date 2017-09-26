@@ -37,3 +37,5 @@ This allows you to do three things…
 NOTE:  For the case portion, make sure to use an existing contact that has access to the Dynamics 365 Customer Portal so you can see the case listing for that specific contact in the portal.
 
 Note: This is not production level code.  This is for demo purposes only.
+
+For more information on the functionality and setup, please watch the video at https://1drv.ms/v/s!AqPdeEsixg1ZkNtc1asY9PJixmJx9w and the instructions in word document format with screenshots are at https://1drv.ms/w/s!AqPdeEsixg1ZkNtdswlMBDQfMPuCjg. 
